@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYC Subway Service Alerts</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>NYC Subway Service Alerts</h1>
+    </header>
+    
+    <div class="container">
+        <!-- Sidebar for filtering by subway line -->
+        <aside class="sidebar">
+            <h2>Filter by Line</h2>
+            <div id="line-filter"></div>
+        </aside>
+
+        <main class="services-container">
+            <!-- Real-Time Express-to-Local Switch Detection Section -->
+            <div id="express-local-switches" class="alerts-section" aria-live="polite" aria-atomic="true">
+                <h2>Real-Time Express-to-Local Switch Alerts</h2>
+                <div id="express-alerts"></div>
+            </div>
+
+            <!-- Individual Alerts Section -->
+            <div id="results" class="alerts-section" aria-live="polite" aria-atomic="true">
+                <h2>Subway Alerts</h2>
+            </div>
+        </main>
+    </div>
+    <div id="ranking"></div> <!-- Add this for the top 3 ranking display -->
+
+
+    <script src="app.js"></script>
+</body>
+</html>

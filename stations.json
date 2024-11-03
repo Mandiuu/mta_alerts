@@ -1,0 +1,2342 @@
+[
+    {
+        "name": "242 St-Van Cortlandt Park",
+        "short": "242",
+        "line": "Broadway"
+    },
+    {
+        "name": "238 St",
+        "short": "238",
+        "line": "Broadway"
+    },
+    {
+        "name": "231 St",
+        "short": "231",
+        "line": "Broadway"
+    },
+    {
+        "name": "225 St-Marble Hill",
+        "short": "225",
+        "line": "Broadway"
+    },
+    {
+        "name": "215 St",
+        "short": "215",
+        "line": "Broadway"
+    },
+    {
+        "name": "207 St",
+        "short": "207",
+        "line": "Broadway"
+    },
+    {
+        "name": "Dyckman St",
+        "short": "Dyckman",
+        "line": "Broadway"
+    },
+    {
+        "name": "191 St",
+        "short": "191",
+        "line": "Broadway"
+    },
+    {
+        "name": "181 St",
+        "short": "181",
+        "line": "Broadway"
+    },
+    {
+        "name": "168 St-Washington Hts",
+        "short": "168",
+        "line": "Broadway"
+    },
+    {
+        "name": "157 St",
+        "short": "157",
+        "line": "Broadway"
+    },
+    {
+        "name": "145 St",
+        "short": "145",
+        "line": "Broadway"
+    },
+    {
+        "name": "137 St-City College",
+        "short": "137",
+        "line": "Broadway"
+    },
+    {
+        "name": "125 St",
+        "short": "125",
+        "line": "Broadway"
+    },
+    {
+        "name": "116 St-Columbia Univ.",
+        "short": "116",
+        "line": "Broadway"
+    },
+    {
+        "name": "Cathedral Parkway ",
+        "short": "110",
+        "line": "Broadway"
+    },
+    {
+        "name": "103 St",
+        "short": "103",
+        "line": "Broadway"
+    },
+    {
+        "name": "96 St",
+        "short": "96",
+        "line": "7 Av"
+    },
+    {
+        "name": "86 St",
+        "short": "86",
+        "line": "7 Av"
+    },
+    {
+        "name": "79 St",
+        "short": "79",
+        "line": "7 Av"
+    },
+    {
+        "name": "72 St",
+        "short": "72",
+        "line": "7 Av"
+    },
+    {
+        "name": "66 St-Lincoln Center",
+        "short": "66",
+        "line": "7 Av"
+    },
+    {
+        "name": "59 St-Columbus Circle",
+        "short": "59",
+        "line": "7 Av"
+    },
+    {
+        "name": "50 St",
+        "short": "50",
+        "line": "7 Av"
+    },
+    {
+        "name": "42 St-Times Square",
+        "short": "42",
+        "line": "7 Av"
+    },
+    {
+        "name": "34 St-Penn Station",
+        "short": "34",
+        "line": "7 Av"
+    },
+    {
+        "name": "28 St",
+        "short": "28",
+        "line": "7 Av"
+    },
+    {
+        "name": "23 St",
+        "short": "23",
+        "line": "7 Av"
+    },
+    {
+        "name": "18 St",
+        "short": "18",
+        "line": "7 Av"
+    },
+    {
+        "name": "14 St",
+        "short": "14",
+        "line": "7 Av"
+    },
+    {
+        "name": "Christopher St-Sheridan Sq",
+        "short": "Christopher",
+        "line": "7 Av"
+    },
+    {
+        "name": "Houston St",
+        "short": "Houston",
+        "line": "7 Av"
+    },
+    {
+        "name": "Canal St",
+        "short": "Canal",
+        "line": "7 Av"
+    },
+    {
+        "name": "Franklin St",
+        "short": "Franklin",
+        "line": "7 Av"
+    },
+    {
+        "name": "Chambers St",
+        "short": "Chambers",
+        "line": "7 Av"
+    },
+    {
+        "name": "Cortlandt St",
+        "short": "Cortlandt",
+        "line": "7 Av"
+    },
+    {
+        "name": "Rector St",
+        "short": "Rector",
+        "line": "7 Av"
+    },
+    {
+        "name": "South Ferry",
+        "short": "SouthFerry",
+        "line": "7 Av"
+    },
+    {
+        "name": "241 St-Wakefield",
+        "short": "241",
+        "line": "WPR"
+    },
+    {
+        "name": "Nereid Av (238 St)",
+        "short": "Nereid",
+        "line": "WPR"
+    },
+    {
+        "name": "233 St",
+        "short": "233",
+        "line": "WPR"
+    },
+    {
+        "name": "225 St",
+        "short": "225",
+        "line": "WPR"
+    },
+    {
+        "name": "219 St",
+        "short": "219",
+        "line": "WPR"
+    },
+    {
+        "name": "Gun Hill Road",
+        "short": "GunHill",
+        "line": "WPR"
+    },
+    {
+        "name": "Burke Av",
+        "short": "Burke",
+        "line": "WPR"
+    },
+    {
+        "name": "Allerton Av",
+        "short": "Allerton",
+        "line": "WPR"
+    },
+    {
+        "name": "Pelham Parkway",
+        "short": "PelhamPkwy",
+        "line": "WPR"
+    },
+    {
+        "name": "Bronx Park East",
+        "short": "BronxParkE",
+        "line": "WPR"
+    },
+    {
+        "name": "East 180th St",
+        "short": "East180",
+        "line": "WPR"
+    },
+    {
+        "name": "East Tremont Av-West Farms Sq",
+        "short": "ETremont",
+        "line": "WPR"
+    },
+    {
+        "name": "174 St",
+        "short": "174",
+        "line": "WPR"
+    },
+    {
+        "name": "Freeman St",
+        "short": "Freeman",
+        "line": "WPR"
+    },
+    {
+        "name": "Simpson St",
+        "short": "Simpson",
+        "line": "WPR"
+    },
+    {
+        "name": "Intervale Av",
+        "short": "Intervale",
+        "line": "WPR"
+    },
+    {
+        "name": "Prospect Av",
+        "short": "Prospect",
+        "line": "WPR"
+    },
+    {
+        "name": "Jackson Av",
+        "short": "Jackson",
+        "line": "WPR"
+    },
+    {
+        "name": "3 Av-149 St",
+        "short": "3",
+        "line": "WPR"
+    },
+    {
+        "name": "149 St-Grand Concourse",
+        "short": "149",
+        "line": "WPR"
+    },
+    {
+        "name": "135 St",
+        "short": "135",
+        "line": "Lenox"
+    },
+    {
+        "name": "125 St",
+        "short": "125",
+        "line": "Lenox"
+    },
+    {
+        "name": "116 St",
+        "short": "116",
+        "line": "Lenox"
+    },
+    {
+        "name": "Central Park North-110 St",
+        "short": "110",
+        "line": "Lenox"
+    },
+    {
+        "name": "Park Place",
+        "short": "ParkPl",
+        "line": "Clark St"
+    },
+    {
+        "name": "Fulton St",
+        "short": "Fulton",
+        "line": "Clark St"
+    },
+    {
+        "name": "Wall St",
+        "short": "Wall",
+        "line": "Clark St"
+    },
+    {
+        "name": "Clark St-Brooklyn Hts",
+        "short": "Clark",
+        "line": "Clark St"
+    },
+    {
+        "name": "Borough Hall",
+        "short": "BoroHall",
+        "line": "Clark St"
+    },
+    {
+        "name": "Hoyt St-Fulton Mall",
+        "short": "Hoyt",
+        "line": "Clark St"
+    },
+    {
+        "name": "Nevins St",
+        "short": "Nevins",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Atlantic Av",
+        "short": "Atlantic",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Bergen St",
+        "short": "Bergen",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Grand Army Plaza",
+        "short": "GrArmyPlz",
+        "line": "E Parkway"
+    },
+    {
+        "name": "E. Parkway-Brooklyn Museum",
+        "short": "EParkway",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Franklin Av",
+        "short": "Franklin",
+        "line": "E Parkway"
+    },
+    {
+        "name": "President St",
+        "short": "President",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Sterling St",
+        "short": "Sterling",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Winthrop St",
+        "short": "Winthrop",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Church Av",
+        "short": "Church",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Beverley Road",
+        "short": "Beverley",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Newkirk Av",
+        "short": "Newkirk",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Flatbush Av-Bklyn College",
+        "short": "Flatbush",
+        "line": "Nostrand"
+    },
+    {
+        "name": "Nostrand Av",
+        "short": "Nostrand",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Kingston Av",
+        "short": "Kingston",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Utica Av",
+        "short": "Utica",
+        "line": "E Parkway"
+    },
+    {
+        "name": "Sutter Av-Rutland Road",
+        "short": "Sutter",
+        "line": "Livonia"
+    },
+    {
+        "name": "Saratoga Av",
+        "short": "Saratoga",
+        "line": "Livonia"
+    },
+    {
+        "name": "Rockaway Av",
+        "short": "Rockaway",
+        "line": "Livonia"
+    },
+    {
+        "name": "Junius St",
+        "short": "Junius",
+        "line": "Livonia"
+    },
+    {
+        "name": "Pennsylvania Av",
+        "short": "Pennsylvania",
+        "line": "Livonia"
+    },
+    {
+        "name": "Van Siclen Av",
+        "short": "VanSiclen",
+        "line": "Livonia"
+    },
+    {
+        "name": "New Lots Av",
+        "short": "NewLots",
+        "line": "Livonia"
+    },
+    {
+        "name": "148 St-Lenox Terminal",
+        "short": "148",
+        "line": "Lenox Term"
+    },
+    {
+        "name": "145 St",
+        "short": "145",
+        "line": "Lenox"
+    },
+    {
+        "name": "Woodlawn",
+        "short": "Woodlawn",
+        "line": "Jerome"
+    },
+    {
+        "name": "Mosholu Parkway",
+        "short": "Mosholu",
+        "line": "Jerome"
+    },
+    {
+        "name": "Bedford Park Boulevard",
+        "short": "BedfordPk",
+        "line": "Jerome"
+    },
+    {
+        "name": "Kingsbridge Road",
+        "short": "Kingsbr",
+        "line": "Jerome"
+    },
+    {
+        "name": "Fordham Road",
+        "short": "Fordham",
+        "line": "Jerome"
+    },
+    {
+        "name": "183 St",
+        "short": "183",
+        "line": "Jerome"
+    },
+    {
+        "name": "Burnside Av",
+        "short": "Burnside",
+        "line": "Jerome"
+    },
+    {
+        "name": "176 St",
+        "short": "176",
+        "line": "Jerome"
+    },
+    {
+        "name": "Mount Eden Av",
+        "short": "MountEden",
+        "line": "Jerome"
+    },
+    {
+        "name": "170 St",
+        "short": "170",
+        "line": "Jerome"
+    },
+    {
+        "name": "167 St",
+        "short": "167",
+        "line": "Jerome"
+    },
+    {
+        "name": "161 St-Yankee Stadium",
+        "short": "161",
+        "line": "Jerome"
+    },
+    {
+        "name": "149 St-Grand Concourse",
+        "short": "149",
+        "line": "Jerome"
+    },
+    {
+        "name": "138 St-Grand Concourse",
+        "short": "138",
+        "line": "Lexington"
+    },
+    {
+        "name": "Fulton St",
+        "short": "Fulton",
+        "line": "Lexington"
+    },
+    {
+        "name": "Wall St",
+        "short": "Wall",
+        "line": "Lexington"
+    },
+    {
+        "name": "Bowling Green",
+        "short": "BowlingGr",
+        "line": "Lexington"
+    },
+    {
+        "name": "Borough Hall",
+        "short": "BoroHall",
+        "line": "Lexington"
+    },
+    {
+        "name": "Dyre Av-Eastchester",
+        "short": "Dyre",
+        "line": "Dyre"
+    },
+    {
+        "name": "Baychester Av",
+        "short": "Baychester",
+        "line": "Dyre"
+    },
+    {
+        "name": "Gun Hill Road",
+        "short": "GunHill",
+        "line": "Dyre"
+    },
+    {
+        "name": "Pelham Parkway",
+        "short": "PelhamPkwy",
+        "line": "Dyre"
+    },
+    {
+        "name": "Morris Park",
+        "short": "MorrisPark",
+        "line": "Dyre"
+    },
+    {
+        "name": "Pelham Bay Park",
+        "short": "PelhamBay",
+        "line": "Pelham"
+    },
+    {
+        "name": "Buhre Av",
+        "short": "Buhre",
+        "line": "Pelham"
+    },
+    {
+        "name": "Middletown Road",
+        "short": "Middletown",
+        "line": "Pelham"
+    },
+    {
+        "name": "Westchester Sq-E Tremont Av",
+        "short": "Westchester",
+        "line": "Pelham"
+    },
+    {
+        "name": "Zerega Av",
+        "short": "Zerega",
+        "line": "Pelham"
+    },
+    {
+        "name": "Castle Hill Av",
+        "short": "CastleHill",
+        "line": "Pelham"
+    },
+    {
+        "name": "Parkchester (East 177 St)",
+        "short": "Parkchester",
+        "line": "Pelham"
+    },
+    {
+        "name": "St. Lawrence Av",
+        "short": "StLawrence",
+        "line": "Pelham"
+    },
+    {
+        "name": "Morrison-Soundview Avs",
+        "short": "Morrison",
+        "line": "Pelham"
+    },
+    {
+        "name": "Elder Av",
+        "short": "Elder",
+        "line": "Pelham"
+    },
+    {
+        "name": "Whitlock Av",
+        "short": "Whitlock",
+        "line": "Pelham"
+    },
+    {
+        "name": "Hunts Point Av",
+        "short": "HuntsPoint",
+        "line": "Pelham"
+    },
+    {
+        "name": "Longwood Av",
+        "short": "Longwood",
+        "line": "Pelham"
+    },
+    {
+        "name": "East 149 St",
+        "short": "East149",
+        "line": "Pelham"
+    },
+    {
+        "name": "East 143 St-St Mary's St",
+        "short": "East143",
+        "line": "Pelham"
+    },
+    {
+        "name": "Cypress Av",
+        "short": "Cypress",
+        "line": "Pelham"
+    },
+    {
+        "name": "Brook Av",
+        "short": "Brook",
+        "line": "Pelham"
+    },
+    {
+        "name": "138 St-3 Av",
+        "short": "138",
+        "line": "Pelham"
+    },
+    {
+        "name": "125 St",
+        "short": "125",
+        "line": "Lexington"
+    },
+    {
+        "name": "116 St",
+        "short": "116",
+        "line": "Lexington"
+    },
+    {
+        "name": "110 St",
+        "short": "110",
+        "line": "Lexington"
+    },
+    {
+        "name": "103 St",
+        "short": "103",
+        "line": "Lexington"
+    },
+    {
+        "name": "96 St",
+        "short": "96",
+        "line": "Lexington"
+    },
+    {
+        "name": "86 St",
+        "short": "86",
+        "line": "Lexington"
+    },
+    {
+        "name": "77 St",
+        "short": "77",
+        "line": "Lexington"
+    },
+    {
+        "name": "68 St",
+        "short": "68",
+        "line": "Lexington"
+    },
+    {
+        "name": "59 St",
+        "short": "59",
+        "line": "Lexington"
+    },
+    {
+        "name": "51 St",
+        "short": "51",
+        "line": "Lexington"
+    },
+    {
+        "name": "42 St-Grand Central",
+        "short": "42",
+        "line": "Lexington"
+    },
+    {
+        "name": "33 St",
+        "short": "33",
+        "line": "Lexington"
+    },
+    {
+        "name": "28 St",
+        "short": "28",
+        "line": "Lexington"
+    },
+    {
+        "name": "23 St",
+        "short": "23",
+        "line": "Lexington"
+    },
+    {
+        "name": "14 St-Union Square",
+        "short": "14",
+        "line": "Lexington"
+    },
+    {
+        "name": "Astor Place-Cooper Union",
+        "short": "Astor",
+        "line": "Lexington"
+    },
+    {
+        "name": "Bleecker St",
+        "short": "Bleecker",
+        "line": "Lexington"
+    },
+    {
+        "name": "Spring St",
+        "short": "Spring",
+        "line": "Lexington"
+    },
+    {
+        "name": "Canal St",
+        "short": "Canal",
+        "line": "Lexington"
+    },
+    {
+        "name": "Brooklyn Bridge-City Hall",
+        "short": "BklynBr",
+        "line": "Lexington"
+    },
+    {
+        "name": "Main St-Flushing",
+        "short": "Main",
+        "line": "Flushing"
+    },
+    {
+        "name": "Willets Point Bl-Shea Stadium",
+        "short": "Willets",
+        "line": "Flushing"
+    },
+    {
+        "name": "111 St",
+        "short": "111",
+        "line": "Flushing"
+    },
+    {
+        "name": "103 St-Corona Plaza",
+        "short": "103",
+        "line": "Flushing"
+    },
+    {
+        "name": "Junction Boulevard",
+        "short": "Junction",
+        "line": "Flushing"
+    },
+    {
+        "name": "90 St-Elmhurst",
+        "short": "90",
+        "line": "Flushing"
+    },
+    {
+        "name": "82 St-Jackson Hts",
+        "short": "82",
+        "line": "Flushing"
+    },
+    {
+        "name": "74 St-Broadway",
+        "short": "74",
+        "line": "Flushing"
+    },
+    {
+        "name": "69 St (Fisk Av)",
+        "short": "69",
+        "line": "Flushing"
+    },
+    {
+        "name": "61 St-Woodside",
+        "short": "61",
+        "line": "Flushing"
+    },
+    {
+        "name": "52 St (Lincoln Av)",
+        "short": "52",
+        "line": "Flushing"
+    },
+    {
+        "name": "46 St (Bliss St)",
+        "short": "46",
+        "line": "Flushing"
+    },
+    {
+        "name": "40 St (Lowery St)",
+        "short": "40",
+        "line": "Flushing"
+    },
+    {
+        "name": "33 St (Rawson St)",
+        "short": "33",
+        "line": "Flushing"
+    },
+    {
+        "name": "Queensboro Plaza",
+        "short": "QBPlaza",
+        "line": "Flusg/Astoria"
+    },
+    {
+        "name": "45 Road-Courthouse Square",
+        "short": "45",
+        "line": "Flushing"
+    },
+    {
+        "name": "Hunter's Point Av",
+        "short": "HuntersPt",
+        "line": "Flushing"
+    },
+    {
+        "name": "Vernon-Jackson Avs",
+        "short": "Vernon",
+        "line": "Flushing"
+    },
+    {
+        "name": "42 St-Grand Central",
+        "short": "GrCentral",
+        "line": "Flushing"
+    },
+    {
+        "name": "5 Av",
+        "short": "5",
+        "line": "Flushing"
+    },
+    {
+        "name": "42 St-Times Square",
+        "short": "TimesSq",
+        "line": "Flushing"
+    },
+    {
+        "name": "Grand Central Station",
+        "short": "GrCentral",
+        "line": "42 St Shuttle"
+    },
+    {
+        "name": "Times Square",
+        "short": "Times",
+        "line": "42 St Shuttle"
+    },
+    {
+        "name": "207 St-Inwood",
+        "short": "207",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "Dyckman St",
+        "short": "Dyckman",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "190 St-Overlook Terrace",
+        "short": "190",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "181 St",
+        "short": "181",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "175 St-GWB Bus Term",
+        "short": "175",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "168 St-Washington Hts",
+        "short": "168",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "163 St-Amsterdam Av",
+        "short": "163",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "155 St",
+        "short": "155",
+        "line": "Wash Hts"
+    },
+    {
+        "name": "135 St",
+        "short": "135",
+        "line": "CPW"
+    },
+    {
+        "name": "125 St",
+        "short": "125",
+        "line": "CPW"
+    },
+    {
+        "name": "116 St",
+        "short": "116",
+        "line": "CPW"
+    },
+    {
+        "name": "Cathedral Parkway",
+        "short": "110",
+        "line": "CPW"
+    },
+    {
+        "name": "103 St",
+        "short": "103",
+        "line": "CPW"
+    },
+    {
+        "name": "96 St",
+        "short": "96",
+        "line": "CPW"
+    },
+    {
+        "name": "86 St",
+        "short": "86",
+        "line": "CPW"
+    },
+    {
+        "name": "81 St-Museum Nat'l History",
+        "short": "81",
+        "line": "CPW"
+    },
+    {
+        "name": "72 St",
+        "short": "72",
+        "line": "CPW"
+    },
+    {
+        "name": "59 St-Columbus Circle",
+        "short": "59",
+        "line": "CPW"
+    },
+    {
+        "name": "50 St",
+        "short": "50",
+        "line": "8 Av"
+    },
+    {
+        "name": "42 St-PA Bus Term.",
+        "short": "42",
+        "line": "8 Av"
+    },
+    {
+        "name": "34 St-Penn Station",
+        "short": "34",
+        "line": "8 Av"
+    },
+    {
+        "name": "23 St",
+        "short": "23",
+        "line": "8 Av"
+    },
+    {
+        "name": "14 St",
+        "short": "14",
+        "line": "8 Av"
+    },
+    {
+        "name": "Spring St",
+        "short": "Spring",
+        "line": "8 Av"
+    },
+    {
+        "name": "Canal St-Holland Tunnel",
+        "short": "Canal",
+        "line": "8 Av"
+    },
+    {
+        "name": "Chambers St",
+        "short": "Chambers",
+        "line": "8 Av"
+    },
+    {
+        "name": "Broadway-Nassau St",
+        "short": "BwayNassau",
+        "line": "Cranberry"
+    },
+    {
+        "name": "High St-Brooklyn Bridge",
+        "short": "High",
+        "line": "Cranberry"
+    },
+    {
+        "name": "Jay St-Borough Hall",
+        "short": "Jay",
+        "line": "Crnbry/Rtgr"
+    },
+    {
+        "name": "Hoyt-Schermerhorn Sts",
+        "short": "Hoyt",
+        "line": "Fltn/Crstn"
+    },
+    {
+        "name": "Lafayette Av",
+        "short": "Lafayette",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Clinton-Washington Avs",
+        "short": "ClintonWash",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Franklin Av",
+        "short": "Franklin",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Nostrand Av",
+        "short": "Nostrand",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Kingston-Throop Avs",
+        "short": "Kingston",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Utica Av",
+        "short": "Utica",
+        "line": "Fulton"
+    },
+    {
+        "name": "Ralph Av",
+        "short": "Ralph",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Rockaway Av",
+        "short": "Rockaway",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Broadway Junction-E New York",
+        "short": "BwayJcn",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Liberty Av",
+        "short": "Liberty",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Van Siclen Av",
+        "short": "VanSiclen",
+        "line": "Fulton"
+    },
+    {
+        "name": "Shepherd Av",
+        "short": "Shepherd",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Euclid Av",
+        "short": "Euclid",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Grant Av",
+        "short": "Grant",
+        "line": "Fulton St"
+    },
+    {
+        "name": "80-Hudson St",
+        "short": "80",
+        "line": "Fulton St"
+    },
+    {
+        "name": "88 St (Boyd Av)",
+        "short": "88",
+        "line": "Fulton St"
+    },
+    {
+        "name": "Rockaway Boulevard",
+        "short": "RockBlvd",
+        "line": "Fulton St"
+    },
+    {
+        "name": "104 St (Oxford Av)",
+        "short": "104",
+        "line": "Lefferts"
+    },
+    {
+        "name": "111 St (Greenwood Av)",
+        "short": "111",
+        "line": "Lefferts"
+    },
+    {
+        "name": "Lefferts Boulevard",
+        "short": "Lefferts",
+        "line": "Lefferts"
+    },
+    {
+        "name": "Aqueduct Racetrack",
+        "short": "AqueductRace",
+        "line": "Rockaway"
+    },
+    {
+        "name": "21 St-Queensbridge",
+        "short": "21",
+        "line": "63 St"
+    },
+    {
+        "name": "Roosevelt Island",
+        "short": "RoosvltIs",
+        "line": "63 St"
+    },
+    {
+        "name": "Lexington Av",
+        "short": "Lex",
+        "line": "63 St"
+    },
+    {
+        "name": "57 St",
+        "short": "57",
+        "line": "6 Av"
+    },
+    {
+        "name": "9 Av",
+        "short": "9",
+        "line": "West End"
+    },
+    {
+        "name": "Fort Hamilton Parkway",
+        "short": "FtHamilton",
+        "line": "West End"
+    },
+    {
+        "name": "50 St",
+        "short": "50",
+        "line": "West End"
+    },
+    {
+        "name": "55 St",
+        "short": "55",
+        "line": "West End"
+    },
+    {
+        "name": "62 St",
+        "short": "62",
+        "line": "West End"
+    },
+    {
+        "name": "71 St",
+        "short": "71",
+        "line": "West End"
+    },
+    {
+        "name": "79 St",
+        "short": "79",
+        "line": "West End"
+    },
+    {
+        "name": "18 Av",
+        "short": "18",
+        "line": "West End"
+    },
+    {
+        "name": "20 Av",
+        "short": "20",
+        "line": "West End"
+    },
+    {
+        "name": "Bay Parkway",
+        "short": "BayPkwy",
+        "line": "West End"
+    },
+    {
+        "name": "25 Av",
+        "short": "25",
+        "line": "West End"
+    },
+    {
+        "name": "Bay 50 St",
+        "short": "Bay50",
+        "line": "West End"
+    },
+    {
+        "name": "205 St-Norwood",
+        "short": "205",
+        "line": "Concourse"
+    },
+    {
+        "name": "Bedford Park Boulevard",
+        "short": "BedfordPk",
+        "line": "Concourse"
+    },
+    {
+        "name": "Kingsbridge Road",
+        "short": "Kingsbr",
+        "line": "Concourse"
+    },
+    {
+        "name": "Fordham Road",
+        "short": "Fordham",
+        "line": "Concourse"
+    },
+    {
+        "name": "182-183 Sts",
+        "short": "182-183",
+        "line": "Concourse"
+    },
+    {
+        "name": "Tremont Av",
+        "short": "Tremont",
+        "line": "Concourse"
+    },
+    {
+        "name": "174-175 Sts",
+        "short": "174-175",
+        "line": "Concourse"
+    },
+    {
+        "name": "170 St",
+        "short": "170",
+        "line": "Concourse"
+    },
+    {
+        "name": "167 St",
+        "short": "167",
+        "line": "Concourse"
+    },
+    {
+        "name": "161 St-Yankee Stadium",
+        "short": "161",
+        "line": "Concourse"
+    },
+    {
+        "name": "155 St",
+        "short": "155",
+        "line": "Concourse"
+    },
+    {
+        "name": "145 St",
+        "short": "145",
+        "line": "CPW"
+    },
+    {
+        "name": "7 Av",
+        "short": "7",
+        "line": "53 St"
+    },
+    {
+        "name": "47-50 Sts (Rock Ctr)",
+        "short": "47-50",
+        "line": "6 Av"
+    },
+    {
+        "name": "42 St",
+        "short": "42",
+        "line": "6 Av"
+    },
+    {
+        "name": "34 St-Herald Square",
+        "short": "34",
+        "line": "6 Av"
+    },
+    {
+        "name": "23 St",
+        "short": "23",
+        "line": "6 Av"
+    },
+    {
+        "name": "14 St",
+        "short": "14",
+        "line": "6 Av"
+    },
+    {
+        "name": "West 4 St-Washington Sq",
+        "short": "W4",
+        "line": "6/8 Av"
+    },
+    {
+        "name": "Broadway-Lafayette St",
+        "short": "BwayLaf",
+        "line": "Houston"
+    },
+    {
+        "name": "Grand St",
+        "short": "Grand",
+        "line": "Chrystie St"
+    },
+    {
+        "name": "Atlantic Av",
+        "short": "Atlantic",
+        "line": "Brighton"
+    },
+    {
+        "name": "7 Av",
+        "short": "7",
+        "line": "Brighton"
+    },
+    {
+        "name": "Prospect Park",
+        "short": "ProspectPk",
+        "line": "Brighton"
+    },
+    {
+        "name": "Parkside Av",
+        "short": "Parkside",
+        "line": "Brighton"
+    },
+    {
+        "name": "Church Av",
+        "short": "Church",
+        "line": "Brighton"
+    },
+    {
+        "name": "Beverley Road",
+        "short": "Beverley",
+        "line": "Brighton"
+    },
+    {
+        "name": "Cortelyou Road",
+        "short": "Cortelyou",
+        "line": "Brighton"
+    },
+    {
+        "name": "Newkirk Av",
+        "short": "Newkirk",
+        "line": "Brighton"
+    },
+    {
+        "name": "Av H",
+        "short": "AvH",
+        "line": "Brighton"
+    },
+    {
+        "name": "Av J",
+        "short": "AvJ",
+        "line": "Brighton"
+    },
+    {
+        "name": "Av M",
+        "short": "AvM",
+        "line": "Brighton"
+    },
+    {
+        "name": "Kings Highway",
+        "short": "KingsHwy",
+        "line": "Brighton"
+    },
+    {
+        "name": "Av U",
+        "short": "AvU",
+        "line": "Brighton"
+    },
+    {
+        "name": "Neck Road",
+        "short": "Neck",
+        "line": "Brighton"
+    },
+    {
+        "name": "Sheepshead Bay",
+        "short": "Sheepshead",
+        "line": "Brighton"
+    },
+    {
+        "name": "Brighton Beach",
+        "short": "Brighton",
+        "line": "Brighton"
+    },
+    {
+        "name": "Ocean Parkway",
+        "short": "OceanPkwy",
+        "line": "Brighton"
+    },
+    {
+        "name": "West 8 St-NY Aquarium",
+        "short": "West",
+        "line": "CI Terminal"
+    },
+    {
+        "name": "Stillwell Av-Coney Isl.",
+        "short": "Stillwell",
+        "line": "CI Terminal"
+    },
+    {
+        "name": "World Trade Center",
+        "short": "WTC",
+        "line": "8 Av-WTC"
+    },
+    {
+        "name": "179 St-Jamaica",
+        "short": "179",
+        "line": "Hillside"
+    },
+    {
+        "name": "169 St",
+        "short": "169",
+        "line": "Hillside"
+    },
+    {
+        "name": "Parsons Boulevard",
+        "short": "Parsons",
+        "line": "Hillside"
+    },
+    {
+        "name": "Suthpin Boulevard",
+        "short": "Suthpin",
+        "line": "Hillside"
+    },
+    {
+        "name": "Van Wyck Boulevard",
+        "short": "VanWyck",
+        "line": "Queens"
+    },
+    {
+        "name": "Union Tpke-Kew Gdns",
+        "short": "Union",
+        "line": "Queens"
+    },
+    {
+        "name": "75 Av (Puritan Av)",
+        "short": "75",
+        "line": "Queens"
+    },
+    {
+        "name": "23 St-Ely Av",
+        "short": "23Ely",
+        "line": "Queens"
+    },
+    {
+        "name": "Lexington Av",
+        "short": "Lexington",
+        "line": "53 St"
+    },
+    {
+        "name": "5 Av",
+        "short": "5",
+        "line": "53 St"
+    },
+    {
+        "name": "2 Av",
+        "short": "2",
+        "line": "Houston"
+    },
+    {
+        "name": "Delancey St",
+        "short": "Delancey",
+        "line": "Houston"
+    },
+    {
+        "name": "East Broadway",
+        "short": "EastBway",
+        "line": "Houston"
+    },
+    {
+        "name": "York St",
+        "short": "York",
+        "line": "Houston"
+    },
+    {
+        "name": "Bergen St",
+        "short": "Bergen",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "Carroll St",
+        "short": "Carroll",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "Smith-9 Sts",
+        "short": "Smith9",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "4 Av",
+        "short": "4",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "7 Av-Park Slope",
+        "short": "7",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "15 St-Prospect Park",
+        "short": "15",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "Fort Hamilton Parkway",
+        "short": "FortHamilton",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "Church Av",
+        "short": "Church",
+        "line": "Prospect Pk"
+    },
+    {
+        "name": "Ditmas Av",
+        "short": "Ditmas",
+        "line": "Culver"
+    },
+    {
+        "name": "18 Av",
+        "short": "18",
+        "line": "Culver"
+    },
+    {
+        "name": "Av I",
+        "short": "AvI",
+        "line": "Culver"
+    },
+    {
+        "name": "Bay Parkway",
+        "short": "BayPkwy",
+        "line": "Culver"
+    },
+    {
+        "name": "Av N",
+        "short": "AvN",
+        "line": "Culver"
+    },
+    {
+        "name": "Av P",
+        "short": "AvP",
+        "line": "Culver"
+    },
+    {
+        "name": "Kings Highway",
+        "short": "KingsHwy",
+        "line": "Culver"
+    },
+    {
+        "name": "Av U",
+        "short": "AvU",
+        "line": "Culver"
+    },
+    {
+        "name": "Av X",
+        "short": "AvX",
+        "line": "Culver"
+    },
+    {
+        "name": "Neptune Av",
+        "short": "Neptune",
+        "line": "Culver"
+    },
+    {
+        "name": "Jamaica Center",
+        "short": "JamaicaCtr",
+        "line": "Archer Av"
+    },
+    {
+        "name": "Sutphin Boulevard",
+        "short": "Sutphin",
+        "line": "Archer Av"
+    },
+    {
+        "name": "Jamaica-Van Wyck",
+        "short": "JamaicaVW",
+        "line": "Archer Av"
+    },
+    {
+        "name": "71-Continental Avs",
+        "short": "71",
+        "line": "Queens"
+    },
+    {
+        "name": "67 Av",
+        "short": "67",
+        "line": "Queens"
+    },
+    {
+        "name": "63 Drive-Rego Park",
+        "short": "63",
+        "line": "Queens"
+    },
+    {
+        "name": "Woodhaven Bl-Queens Mall",
+        "short": "Woodhaven",
+        "line": "Queens"
+    },
+    {
+        "name": "Grand Av-Newtown",
+        "short": "Grand",
+        "line": "Queens"
+    },
+    {
+        "name": "Elmhurst Av",
+        "short": "Elmhurst",
+        "line": "Queens"
+    },
+    {
+        "name": "Roosevelt Av-Jackson Heights",
+        "short": "Roosevelt",
+        "line": "Queens"
+    },
+    {
+        "name": "65 St",
+        "short": "65",
+        "line": "Queens"
+    },
+    {
+        "name": "Northern Boulevard",
+        "short": "Northern",
+        "line": "Queens"
+    },
+    {
+        "name": "46 St",
+        "short": "46",
+        "line": "Queens"
+    },
+    {
+        "name": "Steinway St",
+        "short": "Steinway",
+        "line": "Queens"
+    },
+    {
+        "name": "36 St",
+        "short": "36",
+        "line": "Queens"
+    },
+    {
+        "name": "Queens Plaza",
+        "short": "QueensPlz",
+        "line": "Queens"
+    },
+    {
+        "name": "Court Square",
+        "short": "CourtSq",
+        "line": "Crosstown"
+    },
+    {
+        "name": "21 St-Van Alst",
+        "short": "21",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Greenpoint Av",
+        "short": "Greenpoint",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Nassau Av",
+        "short": "Nassau",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Metropolitan Av",
+        "short": "Metropolitan",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Broadway",
+        "short": "Broadway",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Flushing Av",
+        "short": "Flushing",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Myrtle-Willoughby Avs",
+        "short": "MyrtleWill",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Bedford-Nostrand Avs",
+        "short": "BedfordNost",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Classon Av",
+        "short": "Classon",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Clinton-Washington Avs",
+        "short": "ClintonWash",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Fulton St",
+        "short": "Fulton",
+        "line": "Crosstown"
+    },
+    {
+        "name": "Aqueduct-North Conduit Av",
+        "short": "Aqueduct",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Howard Beach-JFK Airport",
+        "short": "HowardBch",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Broad Channel",
+        "short": "BroadCh",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 67 St-Gaston Av",
+        "short": "B67",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 60 St-Straiton Av",
+        "short": "B60",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 44 St-Frank Av",
+        "short": "B44",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 36 St-Edgemere",
+        "short": "B36",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 25 St-Wavecrest",
+        "short": "B25",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Far Rockaway-Mott Av",
+        "short": "FarRock",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 90 St-Holland",
+        "short": "B90",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 98 St-Playland",
+        "short": "B98",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Beach 105 St-Seaside",
+        "short": "B105",
+        "line": "Rockaway"
+    },
+    {
+        "name": "Rockaway Park-B 116 St",
+        "short": "RockPark",
+        "line": "Rockaway"
+    },
+    {
+        "name": "121 St",
+        "short": "121",
+        "line": "Jamaica"
+    },
+    {
+        "name": "111 St",
+        "short": "111",
+        "line": "Jamaica"
+    },
+    {
+        "name": "102-104 St",
+        "short": "102-104",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Woodhaven Boulevard",
+        "short": "Woodhaven",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Forest Parkway",
+        "short": "ForestPkwy",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Elderts Lane",
+        "short": "Elderts",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Cypress Hills",
+        "short": "CypressHills",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Crescent St",
+        "short": "Crescent",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Norwood Av",
+        "short": "Norwood",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Cleveland St",
+        "short": "Cleveland",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Van Siclen Av",
+        "short": "VanSiclen",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Alabama Av",
+        "short": "Alabama",
+        "line": "Jamaica"
+    },
+    {
+        "name": "Broadway Junction",
+        "short": "BwayJcn",
+        "line": "Broadway"
+    },
+    {
+        "name": "Chauncey St",
+        "short": "Chauncey",
+        "line": "Broadway"
+    },
+    {
+        "name": "Halsey St",
+        "short": "Halsey",
+        "line": "Broadway"
+    },
+    {
+        "name": "Gates Av",
+        "short": "Gates",
+        "line": "Broadway"
+    },
+    {
+        "name": "Kosciusko St",
+        "short": "Kosciusko",
+        "line": "Broadway"
+    },
+    {
+        "name": "8 Av",
+        "short": "8",
+        "line": "14 St"
+    },
+    {
+        "name": "6 Av",
+        "short": "6",
+        "line": "14 St"
+    },
+    {
+        "name": "Union Square",
+        "short": "Union",
+        "line": "14 St"
+    },
+    {
+        "name": "3 Av",
+        "short": "3",
+        "line": "14 St"
+    },
+    {
+        "name": "1 Av",
+        "short": "1",
+        "line": "14 St"
+    },
+    {
+        "name": "Bedford Av",
+        "short": "Bedford",
+        "line": "14 St"
+    },
+    {
+        "name": "Lorimer St",
+        "short": "Lorimer",
+        "line": "14 St"
+    },
+    {
+        "name": "Graham Av",
+        "short": "Graham",
+        "line": "14 St"
+    },
+    {
+        "name": "Grand St",
+        "short": "Grand",
+        "line": "14 St"
+    },
+    {
+        "name": "Montrose Av",
+        "short": "Montrose",
+        "line": "14 St"
+    },
+    {
+        "name": "Morgan Av",
+        "short": "Morgan",
+        "line": "14 St"
+    },
+    {
+        "name": "Jefferson St",
+        "short": "Jefferson",
+        "line": "14 St"
+    },
+    {
+        "name": "DeKalb Av",
+        "short": "DeKalb",
+        "line": "14 St"
+    },
+    {
+        "name": "Myrtle Av",
+        "short": "Myrtle",
+        "line": "14 St"
+    },
+    {
+        "name": "Halsey St",
+        "short": "Halsey",
+        "line": "14 St"
+    },
+    {
+        "name": "Wilson Av",
+        "short": "Wilson",
+        "line": "14 St"
+    },
+    {
+        "name": "Bushwick Av-Aberdeen St",
+        "short": "Bushwick",
+        "line": "14 St"
+    },
+    {
+        "name": "Broadway Junction",
+        "short": "BwayJcn",
+        "line": "14 St"
+    },
+    {
+        "name": "Atlantic Av",
+        "short": "Atlantic",
+        "line": "Canarsie"
+    },
+    {
+        "name": "Sutter Av",
+        "short": "Sutter",
+        "line": "Canarsie"
+    },
+    {
+        "name": "Livonia Av",
+        "short": "Livonia",
+        "line": "Canarsie"
+    },
+    {
+        "name": "New Lots Av",
+        "short": "NewLots",
+        "line": "Canarsie"
+    },
+    {
+        "name": "East 105 St",
+        "short": "East105",
+        "line": "Canarsie"
+    },
+    {
+        "name": "Rockaway Parkway",
+        "short": "RockPkwy",
+        "line": "Canarsie"
+    },
+    {
+        "name": "Metropolitan Av-Middle Vlg",
+        "short": "Metropolitan",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Fresh Pond Road",
+        "short": "FreshPond",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Forest Av",
+        "short": "Forest",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Seneca Av",
+        "short": "Seneca",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Wyckoff Av",
+        "short": "Wyckoff",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Knickerbocker Av",
+        "short": "Knickerbocker",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Central Av",
+        "short": "Central",
+        "line": "Myrtle"
+    },
+    {
+        "name": "Myrtle Av-Broadway",
+        "short": "Myrtle",
+        "line": "Broadway"
+    },
+    {
+        "name": "Flushing Av",
+        "short": "Flushing",
+        "line": "Broadway"
+    },
+    {
+        "name": "Lorimer St",
+        "short": "Lorimer",
+        "line": "Broadway"
+    },
+    {
+        "name": "Hewes St",
+        "short": "Hewes",
+        "line": "Broadway"
+    },
+    {
+        "name": "Marcy Av",
+        "short": "Marcy",
+        "line": "Broadway"
+    },
+    {
+        "name": "Essex St",
+        "short": "Essex",
+        "line": "Nassau St"
+    },
+    {
+        "name": "Bowery",
+        "short": "Bowery",
+        "line": "Nassau St"
+    },
+    {
+        "name": "Canal St",
+        "short": "Canal",
+        "line": "Nassau St"
+    },
+    {
+        "name": "Chambers St",
+        "short": "Chambers",
+        "line": "Nassau St"
+    },
+    {
+        "name": "Fulton St",
+        "short": "Fulton",
+        "line": "Nassau St"
+    },
+    {
+        "name": "Broad St",
+        "short": "Broad",
+        "line": "Nassau St"
+    },
+    {
+        "name": "8 Av",
+        "short": "8",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "Fort Hamilton Parkway",
+        "short": "FortHamilton",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "New Utrecht Av",
+        "short": "NewUtrecht",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "18 Av",
+        "short": "18",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "20 Av",
+        "short": "20",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "Bay Parkway",
+        "short": "BayPkwy",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "Kings Highway",
+        "short": "KingsHwy",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "Av U",
+        "short": "AvU",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "86 St",
+        "short": "86",
+        "line": "Sea Beach"
+    },
+    {
+        "name": "Canal St-Broadway",
+        "short": "Canal",
+        "line": "Broadway"
+    },
+    {
+        "name": "Ditmars Blvd-Astoria",
+        "short": "Ditmars",
+        "line": "Astoria"
+    },
+    {
+        "name": "Astoria Blvd-Hoyt Av",
+        "short": "Astoria",
+        "line": "Astoria"
+    },
+    {
+        "name": "30-Grand Av",
+        "short": "30",
+        "line": "Astoria"
+    },
+    {
+        "name": "Broadway",
+        "short": "Broadway",
+        "line": "Astoria"
+    },
+    {
+        "name": "36-Washington Av",
+        "short": "36",
+        "line": "Astoria"
+    },
+    {
+        "name": "39-Beebe Av",
+        "short": "39",
+        "line": "Astoria"
+    },
+    {
+        "name": "Lexington Av",
+        "short": "Lex",
+        "line": "60 St"
+    },
+    {
+        "name": "5 Av",
+        "short": "5",
+        "line": "60 St"
+    },
+    {
+        "name": "57 St",
+        "short": "57",
+        "line": "Broadway"
+    },
+    {
+        "name": "49 St",
+        "short": "49",
+        "line": "Broadway"
+    },
+    {
+        "name": "42 St-Times Square",
+        "short": "42",
+        "line": "Broadway"
+    },
+    {
+        "name": "34 St-Herald Square",
+        "short": "34",
+        "line": "Broadway"
+    },
+    {
+        "name": "28 St",
+        "short": "28",
+        "line": "Broadway"
+    },
+    {
+        "name": "23 St",
+        "short": "23",
+        "line": "Broadway"
+    },
+    {
+        "name": "14 St-Union Square",
+        "short": "14",
+        "line": "Broadway"
+    },
+    {
+        "name": "8 St-NYU",
+        "short": "8",
+        "line": "Broadway"
+    },
+    {
+        "name": "Prince St",
+        "short": "Prince",
+        "line": "Broadway"
+    },
+    {
+        "name": "Canal St",
+        "short": "Canal",
+        "line": "Broadway"
+    },
+    {
+        "name": "City Hall",
+        "short": "CityHall",
+        "line": "Broadway"
+    },
+    {
+        "name": "Cortlandt St-WTC",
+        "short": "Cortlandt",
+        "line": "Broadway"
+    },
+    {
+        "name": "Rector St",
+        "short": "Rector",
+        "line": "Broadway"
+    },
+    {
+        "name": "Whitehall St-South Ferry",
+        "short": "Whitehall",
+        "line": "Broadway"
+    },
+    {
+        "name": "Court St",
+        "short": "Court",
+        "line": "Montague"
+    },
+    {
+        "name": "Lawrence St-MetroTech",
+        "short": "Lawrence",
+        "line": "Montague"
+    },
+    {
+        "name": "DeKalb Av",
+        "short": "DeKalb",
+        "line": "4 Av"
+    },
+    {
+        "name": "Pacific St",
+        "short": "Pacific",
+        "line": "4 Av"
+    },
+    {
+        "name": "Union St",
+        "short": "Union",
+        "line": "4 Av"
+    },
+    {
+        "name": "9 St",
+        "short": "9",
+        "line": "4 Av"
+    },
+    {
+        "name": "Prospect Av",
+        "short": "Prospect",
+        "line": "4 Av"
+    },
+    {
+        "name": "25 St",
+        "short": "25",
+        "line": "4 Av"
+    },
+    {
+        "name": "36 St",
+        "short": "36",
+        "line": "4 Av"
+    },
+    {
+        "name": "45 St",
+        "short": "45",
+        "line": "4 Av"
+    },
+    {
+        "name": "53 St",
+        "short": "53",
+        "line": "4 Av"
+    },
+    {
+        "name": "59 St",
+        "short": "59",
+        "line": "4 Av"
+    },
+    {
+        "name": "Bay Ridge Av",
+        "short": "BayRidge",
+        "line": "4 Av"
+    },
+    {
+        "name": "77 St",
+        "short": "77",
+        "line": "4 Av"
+    },
+    {
+        "name": "86 St",
+        "short": "86",
+        "line": "4 Av"
+    },
+    {
+        "name": "95 St-Bay Ridge",
+        "short": "95",
+        "line": "4 Av"
+    },
+    {
+        "name": "Franklin Av",
+        "short": "Franklin",
+        "line": "Franklin S"
+    },
+    {
+        "name": "Park Place",
+        "short": "ParkPl",
+        "line": "Franklin S"
+    },
+    {
+        "name": "Botanic Garden",
+        "short": "BotanicGarden",
+        "line": "Franklin S"
+    }
+]
